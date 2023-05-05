@@ -2,6 +2,10 @@
 
 MythosR4T - это Remote Administration Tool (RAT) для операционных систем Windows, MythosR4T был написан на чистом Python и предназначен для удаленного управления компьютером.
 
+<p align = "center">
+<img src="https://github.com/mython-dev/MythosR4T/blob/main/screenshot.png" width="600">
+</p>
+
 ## Дисклеймер.
 
 Внимание! Автор данного кода @myth-dev не несет ответстветнности за любые последствия от ее прочтения. Все материалы
