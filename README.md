@@ -1,5 +1,5 @@
 <p align = "center">
-<img src="https://github.com/mython-dev/MythosR4T/blob/main/screenshot.png" width="600">
+![Banner](https://github.com/mython-dev/MythosR4T/blob/main/screenshot.png)
 </p>
 
 # MythosR4T.
