@@ -1,6 +1,6 @@
-<p align = "center">
+
 ![Banner](https://github.com/mython-dev/MythosR4T/blob/main/screenshot.png)
-</p>
+
 
 # MythosR4T.
 
